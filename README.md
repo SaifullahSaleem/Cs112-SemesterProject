@@ -1,2 +1,2 @@
 # Cs112-SemesterProject
-Medical Information System
+Student Record System
